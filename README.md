@@ -8,7 +8,7 @@
 
 </div>
 
-> Good programmers write code that humans can understand.
+> Good systems make complexity feel collaborative.
 
 I build practical software at the intersection of **AI, developer tooling, and automation**—turning fuzzy workflows into small, reliable systems.
 
@@ -23,7 +23,6 @@ I build practical software at the intersection of **AI, developer tooling, and a
 | Project | What it is |
 | --- | --- |
 | [wk-goal](https://github.com/EpicKim/wk-goal) | A goal workflow that clarifies, executes, reviews, and fixes until clean |
-| [sqlentity](https://github.com/EpicKim/sqlentity) | Dart database tooling |
 | [indexTTS2](https://github.com/EpicKim/indexTTS2) | A voice / language technology exploration |
 | [ltp4-server](https://github.com/EpicKim/ltp4-server) | A Python API service for LTP Chinese language processing |
 | [wuxia](https://github.com/EpicKim/wuxia) | A playable wuxia team-building Roguelike web prototype |
