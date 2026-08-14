@@ -5,7 +5,6 @@
 **AI engineering · developer tools · thoughtful automation**
 
 [![GitHub](https://img.shields.io/badge/GitHub-EpicKim-181717?style=flat-square&logo=github)](https://github.com/EpicKim)
-[![Profile views](https://komarev.com/ghpvc/?username=EpicKim&style=flat-square&color=0e75b6)](https://github.com/EpicKim)
 
 </div>
 
