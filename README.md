@@ -27,6 +27,9 @@ I build practical software at the intersection of **AI, developer tooling, and a
 | [yi_server](https://github.com/EpicKim/yi_server) | PHP service project |
 | [sqlentity](https://github.com/EpicKim/sqlentity) | Dart database tooling |
 | [indexTTS2](https://github.com/EpicKim/indexTTS2) | A voice / language technology exploration |
+| [ltp4-server](https://github.com/EpicKim/ltp4-server) | A Python API service for LTP Chinese language processing |
+| [wuxia](https://github.com/EpicKim/wuxia) | A playable wuxia team-building Roguelike web prototype |
+| [LOVE](https://github.com/EpicKim/LOVE) | A Flutter / Dart game project adapted from LÖVE2D |
 
 ## Toolbox
 
