@@ -23,8 +23,6 @@ I build practical software at the intersection of **AI, developer tooling, and a
 | Project | What it is |
 | --- | --- |
 | [wk-goal](https://github.com/EpicKim/wk-goal) | A goal workflow that clarifies, executes, reviews, and fixes until clean |
-| [yiyi](https://github.com/EpicKim/yiyi) | JavaScript project |
-| [yi_server](https://github.com/EpicKim/yi_server) | PHP service project |
 | [sqlentity](https://github.com/EpicKim/sqlentity) | Dart database tooling |
 | [indexTTS2](https://github.com/EpicKim/indexTTS2) | A voice / language technology exploration |
 | [ltp4-server](https://github.com/EpicKim/ltp4-server) | A Python API service for LTP Chinese language processing |
